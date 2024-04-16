@@ -1,0 +1,161 @@
+[
+    {
+      "name": "Les Glaneuses" ,
+      "url": "./images/gleaners.png",
+      "category": "smartphones",
+      "price": "Jean-François Millet"
+    },
+    {
+      "name": "Les Demoiselles d'Avignon ",
+      "url": "./images/demoiselle.png",
+      "category": "smartphones",
+      "price": "Pablo Picasso"
+    },
+    {
+      "name": "Migrant Mother ",
+      "url": "./images/migrant mother.jpg",
+      "category": "cameras",
+      "price": "Dorothea Lange"
+    },
+    {
+      "name": "Les trois Mai 1808",
+      "url": "/images/TROISmai.webp",
+      "category": "cameras",
+      "price": "Francisco de Goya"
+    },
+    {
+      "name": " La Liberté guidant le peuple",
+      "url": "./images/liberte.png" ,
+      "category": "games",
+      "price": "Eugène Delacroix"
+    },
+    {
+      "name": " La Colombe de La Paix",
+      "url": "/images/piegon.jpg",
+      "category": "games",
+      "price": "Pablo Picasso"
+    },
+    {
+      "name": "art du rue ",
+      "url": "./images/art.jpg",
+      "category": "games",
+      "price": "auteurs"
+    },
+    {
+      "name": "les philosophes des lumières  ",
+      "url": "/images/philosophe.jpg",
+      "category": "games",
+      "price": "auteurs"
+    },
+    {
+      "name": " Les 2 Fridas",
+      "url": "./images/lesdesux.jpg",
+      "category": "games",
+      "price": "Frida Kahlo"
+    },
+    {
+      "name": "Que la justice soit faite ",
+      "url": "./images/paix.jpg",
+      "category": "cameras",
+      "price": "Gary Gray"
+    },
+    {
+      "name": " Anime Quote",
+      "url": "./images/Luffy.jpg",
+      "category": "games",
+      "price": "Monkey D Luffy "
+    },
+    {
+      "name": "Guernica",
+      "url": "./images/guernica Picasso.jpg",
+      "category": "smartphones",
+      "price": "Pablo Picasso"
+    },
+    {
+      "name": "Le Bain de l'enfant",
+      "url": "./images/shower.jpg",
+      "category": "smartphones",
+      "price": "Marry Cassat"
+    },
+    {
+      "name": "Le Supplice",
+      "url": "./images/eye.jpg",
+      "category": "smartphones",
+      "price": "Jane Gray"
+    },
+    {
+      "name": "Les Volontaires",
+      "url": "./images/mersaille.jpg",
+      "category": "games",
+      "price": "Francois Rude"
+    },
+    {
+      "name": "Bansky Girl",
+      "url": "./images/baloun.jpg",
+      "category": "games",
+      "price": "Ivana francis"
+    },
+    {
+      "name": "Lady Banking",
+      "url": "./images/image1.jpg",
+      "category": "cameras",
+      "price": "David Emil"
+    },
+    {
+      "name": "Peinture",
+      "url": "./images/image2.jpg",
+      "category": "cameras",
+      "price": "Vermeer"
+    },
+    {
+      "name": "Peinture",
+      "url": "./images/image3.jpg",
+      "category": "games",
+      "price": "Rude frncois"
+    },
+
+    {
+      "name": "Peinture",
+      "url": "./images/image4.jpg",
+      "category": "cameras",
+      "price": "Rude frncois"
+    },
+    {
+      "name": "Fearless Girl",
+      "url": "./images/image5.png",
+      "category": "cameras",
+      "price": "Kristen Visbal"
+    },
+    {
+      "name": " Coup de monde 2010",
+      "url": "/images/worldcup.jpg",
+      "category": "games",
+      "price": "image"
+    },
+
+    {
+      "name": " Caricature 1  ",
+      "url": "/images/caricature1.png",
+      "category": "televisions",
+      "price": "Causes"
+    },
+
+    {
+      "name": " Caricature 2  ",
+      "url": "/images/caricature2.png",
+      "category": "televisions",
+      "price": "Causes"
+    },
+    {
+      "name": " Caricature 3  ",
+      "url": "/images/caricature3.jpg",
+      "category": "televisions",
+      "price": "Causes"
+    }
+
+    
+
+
+
+    
+  ]
